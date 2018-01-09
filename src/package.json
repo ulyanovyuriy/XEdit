@@ -1,0 +1,12 @@
+{
+  "name": "xedit",
+  "version": "0.0.0",
+  "description": "XEdit",
+  "main": "app.js",
+  "author": {
+    "name": "ulyan"
+  },
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
